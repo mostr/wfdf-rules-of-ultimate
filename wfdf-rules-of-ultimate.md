@@ -4,7 +4,7 @@ Ultimate to siedmioosobowy sport drużynowy, w którym gra się latającym dysk
 
 Wiele z zasad Ultimate jest dość ogólnych, ale pokrywają one większość sytuacji. Zdarzają się jednak wyjątki, w których obowiązują bardziej konkrente zasady.
 
-### 1. Spirit of the Game
+### 1. Duch Gry (Spirit of the Game)
 
 #### 1.1
 
