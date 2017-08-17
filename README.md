@@ -5,5 +5,7 @@ Polskie tłumaczenie oficjalnych zasad Ultimate Frisbee, rev. 2017 - [kliknij tu
 Oryginalne dokumenty z zasadami znajdują się [tu](https://rules.wfdf.org/downloads)
 
 
-***Tłumaczenie ciągle w trakcie przygotowywania. Chcesz pomóc? Daj znać, michal.ostruszka(at)gmail.com***
+***Tłumaczenie ciągle w trakcie przygotowywania*** 
+
+Chcesz pomóc? Odezwij się na [michal.ostruszka@gmail.com](mailto:michal.ostruszka@gmail.com)
 
