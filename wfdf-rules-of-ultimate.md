@@ -117,10 +117,11 @@ Obszary stref końcowych i centralnej części boiska są zaznaczone ośmioma wi
 Obszar bezpośrednio wokół boiska powinien być bezpieczny, wolny od przeszkód i ruchomych obiektów. Jeśli gra jest utrudniona przez osoby nie będące zawodnikami lub przedmioty znajdujące się w obrębie 3 metrów od linii obwodu boiska, każdy zawodnik któremu to przeszkodziło w grze może zgłosić naruszenie zasad.
 
 
-<figure style="margin: 3em 0">
-	<img src="field.png" style="display: block; margin: 0 auto"/>
-	<figcaption style="text-align: center">1. Boisko do gry w Ultimate</figcaption>
-</figure>
+<p align="center">
+	<img src="field.png"/>
+	<br/>
+	1. Boisko do gry w Ultimate
+</p>
 
 
 
