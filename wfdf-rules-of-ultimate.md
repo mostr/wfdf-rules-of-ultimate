@@ -124,6 +124,86 @@ Obszar bezpośrednio wokół boiska powinien być bezpieczny, wolny od przeszk�
 </p>
 
 
+## 3. Sprzęt do gry
+
+### 3.1
+
+Do gry może zostać użyty dowolny latający dysk zaakceptowany przez kapitanów obu drużyn.
+
+### 3.2
+
+WFDF może prowadzić wykaz zaakceptowanych i rekomendowanych do gry dysków.
+
+### 3.3
+
+Każdy zawodnik powinien być ubrany w strój swojej drużyny
+
+### 3.4
+
+Gracze nie mogą mieć elementów stroju, które potencjalnie zagrażają, lub mogą zranić innych zawodników, albo utrudniać im grę.
+
+## 4. Punkty i mecz
+
+### 4.1
+
+Mecz trwa do zdobycia konkretnej liczby punktów.
+
+### 4.2
+
+Mecz kończy się i jest wygrany przez drużynę, która jako pierwsza zdobyła 15 punktów
+
+### 4.3
+
+Mecz jest podzielony na 2 części. Przerwa następuje, kiedy jedna z drużyn zdobędzie 8 punktów.
+
+### 4.4
+
+Pierwsza akcja każdej połowy, zaczyna się w momencie rozpoczęcia danej części gry.
+
+### 4.5
+
+Po zdobytym punkcie, kiedy gra nie jest jeszcze skończona i nie następuje przerwa między połowami:
+
+- od razu rozgrywana jest następna akcja 
+- drużyny zamieniają się stronami których bronią
+- drużyna, która zdobyła punkt staje się drużyną broniąca
+
+### 4.6
+
+Zasady gry mogą być odpowiednio dostosowane w przypadku specjalnych rodzajów zawodów, innej liczby graczy, ich wieku lub dostępnej do gry przestrzeni.
+
+
+## 5. Drużyny
+
+### 5.1
+
+Każdy zespół składa się z maksymalnie 7 a minimalnie 5 graczy na boisku w każdej akcji.
+
+### 5.2
+
+Drużyna może przeprowadzić nielimitowaną ilość zmian po punkcie zdobytym przez każdą z drużyn, ale musi to nastąpić przed sygnalizacją gotowości do wznowienia gry.
+
+### 5.3
+
+Każda drużyna wyznacza kapitana, który ją reprezentuje.
+
+## 6. Rozpoczęcie gry
+
+### 6.1
+
+Reprezentanci obu drużyn decydują, która drużyna jako pierwsza wybiera:
+
+- czy jest stroną atakującą, czy broniącą
+- strone boiska/strefę, której początkowo broni
+
+### 6.2
+
+Druga drużyna dostaje pozostałe opcje.
+
+### 6.3
+
+Na początku drugiej połowy powyższe ustalenia i wybory są zamieniane.
+
 
 
 
